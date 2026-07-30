@@ -275,7 +275,7 @@ plt.title("FLIPPED VETICALLY")
 plt.show()
 ```
 Step8: o Save the final modified image to your local directory.
-OUTPUT:
+##OUTPUT:
 
 <img width="372" height="566" alt="image" src="https://github.com/user-attachments/assets/b826728c-cbc8-48eb-9bb4-d06f70c54933" />
 
