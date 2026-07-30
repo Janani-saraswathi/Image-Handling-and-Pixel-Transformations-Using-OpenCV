@@ -183,7 +183,7 @@ o Modify the color of the pixel at (200, 200) to white.
 
 Modify a block of pixels (300x300) to white, starting from (200, 200)
 ```
-image[120:320, 250:400] = [255,255, 255]
+img_rgb[225:425, 120:320] = [255,255, 255]
 ```
 Convert BGR to RGB for displaying with Matplotlib
 ```
@@ -192,7 +192,7 @@ img2_rgb = cv2.cvtColor(img2,cv2.COLOR_BGR2RGB)
 Display the modified image
 ```
 plt.imshow(image_rgb)
-plt.title("Image with 300x300 White Block")
+plt.title("Image with 200x200 White Block")
 plt.axis("off")
 plt.show()
 img2 = cv2.imread('passport.jpeg')
@@ -201,9 +201,9 @@ img_rgb = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
 ```
 Resize while keeping aspect ratio
 ```
-resize_img = cv2.resize(img,(1379//2,736//2))
+resize_img = cv2.resize(img,(338//2,601//2))
 img_rgb=cv2.cvtColor(resize_img,cv2.COLOR_BGR2RGB)
-img_rgb[50:350,30:330]=img2_f
+img_rgb.shape
 plt.imshow(img_rgb,cmap='viridis')
 plt.title('IMAGE WITHIN A IMAGE ')
 plt.axis('off')
@@ -230,9 +230,9 @@ Step6: o Crop a region of interest (ROI) from the image (e.g., a 100x100 pixel a
 ```
 img = cv2.imread('dog.jpg')
 ```
-Crop a 300x300 region starting from (50, 50)
+Crop a 200x200 region starting from (50, 50)
 ```
-roi = img[40:700,180:1250]
+roi = img[80:550,10:328]
 ```
 Convert BGR to RGB for displaying with Matplotlib
 ```
