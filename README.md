@@ -277,35 +277,35 @@ plt.show()
 Step8: o Save the final modified image to your local directory.
 OUTPUT:
 
-!<img width="372" height="566" alt="image" src="https://github.com/user-attachments/assets/b826728c-cbc8-48eb-9bb4-d06f70c54933" />
+<img width="372" height="566" alt="image" src="https://github.com/user-attachments/assets/b826728c-cbc8-48eb-9bb4-d06f70c54933" />
 
-!<img width="392" height="555" alt="image" src="https://github.com/user-attachments/assets/fc3e19fc-5053-4188-9aba-0d046dcb8fa1" />
+<img width="392" height="555" alt="image" src="https://github.com/user-attachments/assets/fc3e19fc-5053-4188-9aba-0d046dcb8fa1" />
 
-!<img width="386" height="517" alt="image" src="https://github.com/user-attachments/assets/bdf04499-b758-4c13-bd53-c8331ccac8d7" />
+<img width="386" height="517" alt="image" src="https://github.com/user-attachments/assets/bdf04499-b758-4c13-bd53-c8331ccac8d7" />
 
-!<img width="341" height="502" alt="image" src="https://github.com/user-attachments/assets/fe782c24-0f59-4649-a9b9-013f7a551147" />
+<img width="341" height="502" alt="image" src="https://github.com/user-attachments/assets/fe782c24-0f59-4649-a9b9-013f7a551147" />
 
-!<img width="350" height="521" alt="image" src="https://github.com/user-attachments/assets/cea8c2cb-40cd-4ed4-b696-95e0ff44df33" />
+<img width="350" height="521" alt="image" src="https://github.com/user-attachments/assets/cea8c2cb-40cd-4ed4-b696-95e0ff44df33" />
 
-!<img width="305" height="517" alt="image" src="https://github.com/user-attachments/assets/4778d859-9e40-4a8c-a451-60c3db81aa8d" />
+<img width="305" height="517" alt="image" src="https://github.com/user-attachments/assets/4778d859-9e40-4a8c-a451-60c3db81aa8d" />
 
-!<img width="316" height="507" alt="image" src="https://github.com/user-attachments/assets/8a602703-dea5-42fd-86ff-cdf2f3ba9dd5" />
+<img width="316" height="507" alt="image" src="https://github.com/user-attachments/assets/8a602703-dea5-42fd-86ff-cdf2f3ba9dd5" />
 
-!<img width="307" height="527" alt="image" src="https://github.com/user-attachments/assets/b9de732e-85d3-4f2d-aaa6-d610a1566b76" />
+<img width="307" height="527" alt="image" src="https://github.com/user-attachments/assets/b9de732e-85d3-4f2d-aaa6-d610a1566b76" />
 
-!<img width="320" height="520" alt="image" src="https://github.com/user-attachments/assets/418a7e01-8a4f-4942-bfa9-6121158504ac" />
+<img width="320" height="520" alt="image" src="https://github.com/user-attachments/assets/418a7e01-8a4f-4942-bfa9-6121158504ac" />
 
-!<img width="313" height="542" alt="image" src="https://github.com/user-attachments/assets/306a534a-bb65-4313-834d-8e8466a66a3e" />
+<img width="313" height="542" alt="image" src="https://github.com/user-attachments/assets/306a534a-bb65-4313-834d-8e8466a66a3e" />
 
-!<img width="416" height="510" alt="image" src="https://github.com/user-attachments/assets/b934e4d0-c033-4d20-8014-e1a6258a06d8" />
+<img width="416" height="510" alt="image" src="https://github.com/user-attachments/assets/b934e4d0-c033-4d20-8014-e1a6258a06d8" />
 
-!<img width="353" height="537" alt="image" src="https://github.com/user-attachments/assets/0ac376ab-5e9c-4b80-9240-f06e54fd79a9" />
+<img width="353" height="537" alt="image" src="https://github.com/user-attachments/assets/0ac376ab-5e9c-4b80-9240-f06e54fd79a9" />
 
-!<img width="432" height="512" alt="image" src="https://github.com/user-attachments/assets/66a11eaf-5bcd-43e6-838e-2a8c8beeb5d9" />
+<img width="432" height="512" alt="image" src="https://github.com/user-attachments/assets/66a11eaf-5bcd-43e6-838e-2a8c8beeb5d9" />
 
-!<img width="297" height="507" alt="image" src="https://github.com/user-attachments/assets/1f5fe1e6-8a67-45c0-bbf9-09d09af37f2b" />
+<img width="297" height="507" alt="image" src="https://github.com/user-attachments/assets/1f5fe1e6-8a67-45c0-bbf9-09d09af37f2b" />
 
-!<img width="290" height="507" alt="image" src="https://github.com/user-attachments/assets/0e9c02fe-7800-4c86-b77d-93951e0ca81b" />
+<img width="290" height="507" alt="image" src="https://github.com/user-attachments/assets/0e9c02fe-7800-4c86-b77d-93951e0ca81b" />
 
 
 
